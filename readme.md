@@ -21,8 +21,8 @@
 - Building biomedical & embedded projects
 - Open to opportunities in Biomedical Engineering / Medical Devices / Electronic Design
 
-#### 🔗 Connect with me
-- [LinkedIn](https://www.linkedin.com/in/www.linkedin.com/in/pierfrancesco-nodale-3733b165)
+#### 🔗 Connect with me[
+-https://www.linkedin.com/in/pierfrancesco-nodale-3733b165
 - [Instagram - AI Creator](https://instagram.com/pierfrancesconodale)
 - [About.me](https://about.me/pierfrancesconodale)
 
